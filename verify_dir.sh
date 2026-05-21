@@ -1,6 +1,6 @@
 
 #!/bin/bash 
-target="$home/Documents/assigment_dir"
+target="$Home/Documents/assigment_dir"
 if [ -d "$target" ]; then 
 	echo "Directory exists: $target"
 else
